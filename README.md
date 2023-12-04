@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0xcyanide                                                                                    ![I hope Morty comes here](https://www.google.com/url?sa=i&url=https%3A%2F%2Frickandmorty.fandom.com%2Fwiki%2FEvil_Rick_Sanchez&psig=AOvVaw1DvZSS-jR1FgfBcqnXCSfX&ust=1701786575395000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjjh8X_9YIDFQAAAAAdAAAAABAF)
+- 👋 Hi, I’m @0xcyanide                                                                                    ![I hope Morty comes here](https://static.wikia.nocookie.net/rickandmorty/images/d/d0/Evil_Rick_Close-Up.png/revision/latest?cb=20180414080515)
 - 👀 I’m interested in web3 and security
 - 🌱 I’m currently enrolled in an undergraduate degree at Indian Institute Of Technology,Roorkee
 - 📫 How to reach me [0xcyanide](https://twitter.com/0xcyanide)
