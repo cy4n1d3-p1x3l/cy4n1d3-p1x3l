@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0xcyanide                                                                                    <img src="https://static.wikia.nocookie.net/rickandmorty/images/d/d0/Evil_Rick_Close-Up.png/revision/latest?cb=20180414080515" width="350" title="hover text">
+- 👋 Hi, I’m @0xcyanide                                                                                    <img src="https://static.wikia.nocookie.net/rickandmorty/images/d/d0/Evil_Rick_Close-Up.png/revision/latest?cb=20180414080515" width="350" title="Wubba-Lubba-Dub-Dub" align=left >
 - 👀 I’m interested in web3 and security
 - 🌱 I’m currently enrolled in an undergraduate degree at Indian Institute Of Technology,Roorkee
 - 📫 How to reach me [0xcyanide](https://twitter.com/0xcyanide)
